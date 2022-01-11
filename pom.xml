@@ -229,6 +229,7 @@
         <updatePolicy>always</updatePolicy>
         <checksumPolicy>warn</checksumPolicy>
       </releases>
+    <repository>
     </repository>
       <id>pentaho-repo</id>
       <name>pentaho-repo</name>
