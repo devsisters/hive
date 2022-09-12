@@ -218,9 +218,9 @@
       </releases>
     </repository>
     <repository>
-      <id>pentaho-repo</id>
-      <name>pentaho-repo</name>
-      <url>https://public.nexus.pentaho.org/content/groups/omni/</url>
+      <id>central-repo</id>
+      <name>central-repo</name>
+      <url>	https://repo1.maven.org/maven2/</url>
     </repository>
   </repositories>
 
