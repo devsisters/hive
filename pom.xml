@@ -218,9 +218,9 @@
       </releases>
     </repository>
     <repository>
-      <id>pentaho-repo</id>
-      <name>pentaho-repo</name>
-      <url>https://public.nexus.pentaho.org/content/groups/omni/</url>
+      <id>conjars-repo</id>
+      <name>conjars-repo</name>
+      <url>https://conjars.org/repo</url>
     </repository>
   </repositories>
 
