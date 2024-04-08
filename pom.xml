@@ -230,11 +230,11 @@
         <checksumPolicy>warn</checksumPolicy>
       </releases>
     </repository>
-    <repository>
+    <!--repository>
       <id>pentaho-repo</id>
       <name>pentaho-repo</name>
       <url>https://public.nexus.pentaho.org/content/groups/omni/</url>
-    </repository>
+    </repository-->
   </repositories>
 
   <dependencyManagement>
